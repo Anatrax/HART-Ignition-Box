@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'OSU HART User Interface'
+project = 'OSU HART Ignition Box'
 copyright = '2021, OSU HART'
 author = 'OSU HART'
 
